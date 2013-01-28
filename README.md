@@ -1,8 +1,12 @@
-This simple bookmarklet allows you to show the Better Errors page for the current rails app your are using.
+# Better Errors bookmarklet
 
-It is especially usefull for AJAX requests, for which the error page doesn't popup automatically. 
+This simple bookmarklet allows you to show the Better Errors page for the current rails app
+your are using. It is especially usefull for AJAX requests, for which the error page
+doesn't popup automatically. 
 
-Check out the amazing [better_errors](https://github.com/charliesome/better_errors) gem to get a better error page on your Ruby on Rails app.
+Check out the amazing [better_errors](https://github.com/charliesome/better_errors) gem to
+get a better error page on your Ruby on Rails app, with a beautifull stack trace, live console,
+link to edit any file in your editor of choice and many more features !
 
 # Usage
 
